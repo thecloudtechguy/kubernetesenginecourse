@@ -1,4 +1,4 @@
-# kubernetesenginecourse
+# KubernetesEngine Beyond The Basics course Pearson O'Reilly
 This is a repo for the Kubernetes Engine Beyond the Basics Course
 Google Cloud Platform is growing impressively in enterprise demand. That demand growth requires cloud professionals to be proficient in Google Cloud Platform (GCP) Kubernetes Engine. Google Kubernetes Engine (GKE) is a managed, production-ready Google hosted container environment for deploying containerized applications.
 
